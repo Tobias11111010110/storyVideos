@@ -1,0 +1,20 @@
+{
+    "videos": [
+      {
+        "videoName": "Introduction to JavaScript",
+        "videoPath": "https://example.com/videos/intro-to-javascript.mp4",
+        "after": "Advanced JavaScript Concepts"
+      },
+      {
+        "videoName": "React Tutorial",
+        "videoPath": "https://example.com/videos/react-tutorial.mp4",
+        "after": "Introduction to JavaScript"
+      },
+      {
+        "videoName": "Node.js Basics",
+        "videoPath": "https://example.com/videos/nodejs-basics.mp4",
+        "after": "Introduction to JavaScript"
+      }
+    ]
+  }
+  
